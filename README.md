@@ -1,4 +1,10 @@
 # C++
 A portfolio of C++ Projects
 
-This is a compilation of the C++ Projects that I have completed.
+### Main Projects
+In the [main_projects] folder is a compilation of my best C++ Projects that I have completed:
+
+
+### Other Projects
+Some other miscellaneous projects I've completed could be found in the [other_projects] folder. These are often project exercises I completed for fun and practice! Here are some of my highlighted practice projects:
+
