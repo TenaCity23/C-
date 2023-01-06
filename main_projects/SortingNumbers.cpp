@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : SortingNumbers.cpp
 // Author      : TenaCity23
-// Description : Sorting Numbers
+// Description : Sorting Numbers: ascending and descending
 //============================================================================
 
 #include <iostream>
