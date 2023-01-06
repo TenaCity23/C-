@@ -25,3 +25,11 @@ int main() {
   
 	return 0;
 }
+
+
+
+/* Output: 
+
+Factorial of 4 is 24
+
+*/
