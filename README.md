@@ -2,7 +2,7 @@
 A portfolio of C++ Projects
 
 ### Main Projects
-In the [main_projects] folder is a compilation of my best C++ Projects that I have completed:
+In the [main_projects](https://github.com/TenaCity23/CPP/tree/main/main_projects) folder is a compilation of my best C++ Projects that I have completed:
 
 
 ### Other Projects
