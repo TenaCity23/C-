@@ -45,7 +45,7 @@ int main() {
 
 	cout << "Sorted (Descending) Array elements:" << endl;
 	for(i = 0; i < n; i++)
-    cout << arr[i] << "\t";
+		cout << arr[i] << "\t";
  	cout << endl;
 	cout << endl;
 
