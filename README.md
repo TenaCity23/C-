@@ -5,6 +5,7 @@ A portfolio of C++ Projects
 In the [main_projects](https://github.com/TenaCity23/CPP/tree/main/main_projects) folder is a compilation of my best C++ Projects that I have completed. Here are some of my highlighted main projects: 
 
 * [Recursive Factorial](https://github.com/TenaCity23/CPP/blob/main/main_projects/recursiveFactorial.cpp)
+* [Recursive Fibonacci](https://github.com/TenaCity23/CPP/blob/main/main_projects/recursiveFibonacci.cpp)
 * [Sorting an Array of Numbers](https://github.com/TenaCity23/CPP/blob/main/main_projects/SortingNumbers.cpp)
 
 ### Other Projects
