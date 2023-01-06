@@ -53,8 +53,6 @@ int main() {
 	return 0;
 }
 
-
-
 /* Output: 
 
 Sorted (Ascending) Array elements:
