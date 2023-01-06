@@ -1,4 +1,8 @@
-// This is a program that acts like a magic 8-Ball, printing out random replies to every run. 
+//============================================================================
+// Name        : 8_Ball.cpp
+// Author      : TenaCity23
+// Description : Magic 8-Ball program that prints out random replies 
+//============================================================================
 
 #include <iostream>
 #include <cstdlib>
