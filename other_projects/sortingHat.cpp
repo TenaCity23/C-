@@ -1,3 +1,9 @@
+//============================================================================
+// Name        : sortingHat.cpp
+// Author      : TenaCity23
+// Description : Harry Potter Sorting Test! 
+//============================================================================
+
 #include <iostream>
 #include <string>
 using namespace std;
