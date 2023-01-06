@@ -1,6 +1,6 @@
 //============================================================================
-// Name        : SortingNumbers.cpp
-// Author      : TenaCity23
+// Name : SortingNumbers.cpp
+// Author : TenaCity23
 // Description : Sorting Numbers
 //============================================================================
 
