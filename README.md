@@ -13,3 +13,4 @@ Some other miscellaneous projects I've completed could be found in the [other_pr
 
 * [Magic 8 Ball](https://github.com/TenaCity23/CPP/blob/main/other_projects/8_Ball.cpp)
 * [Harry Potter Sorting Hat](https://github.com/TenaCity23/CPP/blob/main/other_projects/sortingHat.cpp)
+* [Rock, Paper, Scissors!](https://github.com/TenaCity23/CPP/blob/main/other_projects/rpc.cpp)
