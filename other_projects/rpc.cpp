@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : rpc.cpp
-// Author      : TenaCity23
+// Author      : TenaCity23, prompt from Codecademy
 // Description : Rock, Paper, Scissors!
 //============================================================================
 
