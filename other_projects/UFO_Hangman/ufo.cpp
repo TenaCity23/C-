@@ -1,3 +1,9 @@
+//============================================================================
+// Name        : ufo.cpp
+// Author      : TenaCity23, project prompt from Codecademy
+// Description : UFO Hangman Game
+//============================================================================
+
 #include <iostream>
 #include <string>
 #include "ufo_functions.hpp"
