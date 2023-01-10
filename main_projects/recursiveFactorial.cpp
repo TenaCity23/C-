@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : RecursiveFactorial.cpp
+// Name        : recursiveFactorial.cpp
 // Author      : TenaCity23
 // Description : Recursive function that outputs the factorial of a given number
 //============================================================================
