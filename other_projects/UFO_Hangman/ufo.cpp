@@ -26,6 +26,9 @@ int main() {
 
     char letter; 
 
+    // Case-sensitive 
+    // Does not check for repeats of incorrect guesses
+
     while (answer != codeword && misses < 7) { 
 
         display_misses(misses);
@@ -52,6 +55,10 @@ int main() {
         guess = false;
     }
 
+    display_misses(misses);
+    display_status(incorrect, answer);
+
+    cout << endl;
     end_game(answer, codeword);
     
     cout << endl; 
