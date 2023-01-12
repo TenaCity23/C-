@@ -70,5 +70,4 @@ void update2(char board[], int num) {
 }
 
 
-
 #endif /* TTT_H_ */
