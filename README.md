@@ -7,12 +7,12 @@ In the [main_projects](https://github.com/TenaCity23/CPP/tree/main/main_projects
 * [UFO Hangman](https://github.com/TenaCity23/CPP/tree/main/other_projects/UFO_Hangman)
 
 ### Algorithm & Data Structure Projects
-In the A&DS_projects folder are projects that I have completed using my knowledge of algorithm and data structures. These are works that I believe are useful and important in learning more about programming and solving complex problems. Here are some of my highlighted projects: 
+In the [A&DS_projects](https://github.com/TenaCity23/CPP/tree/main/A%26DS_projects) folder are projects that I have completed using my knowledge of algorithm and data structures. These are works that I believe are useful and important in learning more about programming and solving complex problems. Here are some of my highlighted projects: 
 
-* [Recursive Factorial](https://github.com/TenaCity23/CPP/blob/main/main_projects/recursiveFactorial.cpp)
-* [Recursive Fibonacci](https://github.com/TenaCity23/CPP/blob/main/main_projects/recursiveFibonacci.cpp)
-* [Sorting an Array of Numbers](https://github.com/TenaCity23/CPP/blob/main/main_projects/SortingNumbers.cpp)
-* [Palindrome](https://github.com/TenaCity23/CPP/blob/main/main_projects/palindrome.cpp)
+* [Recursive Factorial](https://github.com/TenaCity23/CPP/blob/main/A%26DS_projects/recursiveFactorial.cpp)
+* [Recursive Fibonacci](https://github.com/TenaCity23/CPP/blob/main/A%26DS_projects/recursiveFibonacci.cpp)
+* [Sorting an Array of Numbers](https://github.com/TenaCity23/CPP/blob/main/A%26DS_projects/SortingNumbers.cpp)
+* [Palindrome](https://github.com/TenaCity23/CPP/blob/main/A%26DS_projects/palindrome.cpp)
 
 ### Other Projects
 Some other miscellaneous projects I've completed could be found in the [other_projects](https://github.com/TenaCity23/CPP/tree/main/other_projects) folder. These are often project exercises I completed for fun and practice! Here are some of my highlighted practice projects:
