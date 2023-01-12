@@ -4,7 +4,8 @@ A portfolio of C++ Projects
 ### Main Projects
 In the [main_projects](https://github.com/TenaCity23/CPP/tree/main/main_projects) folder is a compilation of my best C++ Projects that I have completed. Here are some of my highlighted main projects: 
 
-* [UFO Hangman](https://github.com/TenaCity23/CPP/tree/main/other_projects/UFO_Hangman)
+* [TicTacToe](https://github.com/TenaCity23/CPP/tree/main/main_projects/TicTacToe)
+* [UFO Hangman](https://github.com/TenaCity23/CPP/tree/main/main_projects/UFO_Hangman)
 
 ### Algorithm & Data Structure Projects
 In the [A&DS_projects](https://github.com/TenaCity23/CPP/tree/main/A%26DS_projects) folder are projects that I have completed using my knowledge of algorithm and data structures. These are works that I believe are useful and important in learning more about programming and solving complex problems. Here are some of my highlighted projects: 
