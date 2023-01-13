@@ -18,6 +18,7 @@ Some other miscellaneous projects I've completed could be found in the [other_pr
 ### [Games](https://github.com/TenaCity23/CPP/tree/main/other_projects/Games):
 * [Rock, Paper, Scissors!](https://github.com/TenaCity23/CPP/blob/main/other_projects/Games/rpc.cpp)
 * [Harry Potter Sorting Hat](https://github.com/TenaCity23/CPP/blob/main/other_projects/Games/sortingHat.cpp)
+* [Whale Talk](https://github.com/TenaCity23/CPP/blob/main/other_projects/Games/whaletalk.cpp)
 * [Magic 8 Ball](https://github.com/TenaCity23/CPP/blob/main/other_projects/Games/8_Ball.cpp)
 
 ### [Practice](https://github.com/TenaCity23/CPP/tree/main/other_projects/Practice):
