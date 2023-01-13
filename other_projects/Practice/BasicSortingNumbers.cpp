@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : SortingNumbers.cpp
+// Name        : BasicSortingNumbers.cpp
 // Author      : TenaCity23
 // Description : Sorting an array of numbers: ascending and descending
 //============================================================================
