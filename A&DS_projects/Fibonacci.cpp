@@ -1,7 +1,7 @@
 //============================================================================================
-// Name        : recursiveFibonacci.cpp
+// Name        : Fibonacci.cpp
 // Author      : TenaCity23
-// Description : Recursive function to find the sum of a number using the Fibonacci sequence
+// Description : Function to find the sum of a number using the Fibonacci sequence
 //============================================================================================
 
 #include <iostream>
