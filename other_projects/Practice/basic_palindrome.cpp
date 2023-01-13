@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : basic_palindrome.cpp
 // Author      : TenaCity23
-// Description : Checking for palindrome!!
+// Description : Checking for palindrome!! - the basic way
 //============================================================================
 
 #include <iostream>
