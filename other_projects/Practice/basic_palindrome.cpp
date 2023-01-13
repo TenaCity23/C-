@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : palindrome.cpp
+// Name        : basic_palindrome.cpp
 // Author      : TenaCity23
 // Description : Checking for palindrome!!
 //============================================================================
