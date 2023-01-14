@@ -15,7 +15,7 @@ In the [A&DS_projects](https://github.com/TenaCity23/CPP/tree/main/A%26DS_projec
 ## Other Projects
 Some other miscellaneous projects I've completed could be found in the [other_projects](https://github.com/TenaCity23/CPP/tree/main/other_projects) folder. These are often project exercises I completed for fun and practice! Here are some of my highlighted practice projects:
 
-* [Dating Profile App](https://github.com/TenaCity23/CPP/tree/main/other_projects/Dating_Profile_App)
+* [D.P. App](https://github.com/TenaCity23/CPP/tree/main/other_projects/Dating_Profile_App)
 
 ### [Games](https://github.com/TenaCity23/CPP/tree/main/other_projects/Games):
 * [Rock, Paper, Scissors!](https://github.com/TenaCity23/CPP/blob/main/other_projects/Games/rpc.cpp)
