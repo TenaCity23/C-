@@ -8,9 +8,9 @@ In the [main_projects](https://github.com/TenaCity23/CPP/tree/main/main_projects
 * [UFO Hangman](https://github.com/TenaCity23/CPP/tree/main/main_projects/UFO_Hangman)
 
 ## Object Oriented Programming
-In the [OOP] folder are projects that I have done using the four principles of Object Oriented Programming, which include abstraction, encapsulation, inheritance, and polymorphism. These concepts are important in my journey of learning how to program. Here are some of my highligthed OOP projects: 
+In the [OOP](https://github.com/TenaCity23/CPP/tree/main/OOP_projects) folder are projects that I have done using the four principles of Object Oriented Programming, which include abstraction, encapsulation, inheritance, and polymorphism. These concepts are important in my journey of learning how to program. Here are some of my highligthed OOP projects: 
 
-* [D.P. App](https://github.com/TenaCity23/CPP/tree/main/other_projects/Dating_Profile_App)
+* [D.P. App](https://github.com/TenaCity23/CPP/tree/main/OOP_projects/Dating_Profile_App)
 
 ## Algorithm & Data Structure Projects
 In the [A&DS_projects](https://github.com/TenaCity23/CPP/tree/main/A%26DS_projects) folder are projects that I have completed using my knowledge of Algorithm and Data Structures. These are works that I believe are useful and important in learning more about programming and solving complex problems. Here are some of my highlighted projects: 
