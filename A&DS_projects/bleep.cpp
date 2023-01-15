@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : bleep.cpp
 // Author      : TenaCity23
-// Description : Algorithm to Censor a key word from a sentence
+// Description : Algorithm to censor a key word from a sentence
 //============================================================================
 
 #include <iostream> 
@@ -36,8 +36,6 @@ int main () {
 
     return 0;
 }
-
-
 
 /* Output:
 
