@@ -22,6 +22,7 @@ In the [A&DS_projects](https://github.com/TenaCity23/CPP/tree/main/A%26DS_projec
 * [Bleep](https://github.com/TenaCity23/CPP/blob/main/A%26DS_projects/bleep.cpp)
 * [LinkedList Practice](https://github.com/TenaCity23/CPP/tree/main/A&DS_projects/LinkedList)
 * [Recursive Factorial](https://github.com/TenaCity23/CPP/blob/main/A%26DS_projects/recursiveFactorial.cpp)
+* [Basic Sorting: Array of Numbers](https://github.com/TenaCity23/CPP/blob/main/A&DS_projects/BasicSortingNumbers.cpp)
 
 
 ## Other Projects
@@ -35,7 +36,6 @@ Some other miscellaneous projects I've completed could be found in the [other_pr
 
 ### [Practice](https://github.com/TenaCity23/CPP/tree/main/other_projects/Practice):
 * [Fibonacci Sequence](https://github.com/TenaCity23/CPP/blob/main/other_projects/Practice/Fibonacci.cpp)
-* [Basic Sorting: Array of Numbers](https://github.com/TenaCity23/CPP/blob/main/other_projects/Practice/BasicSortingNumbers.cpp)
 * [Basic Palindrome](https://github.com/TenaCity23/CPP/blob/main/other_projects/Practice/basic_palindrome.cpp)
 * [Factors of a Number](https://github.com/TenaCity23/CPP/blob/main/other_projects/Practice/factors.cpp)
 * [Prime Numbers](https://github.com/TenaCity23/CPP/blob/main/other_projects/Practice/primeNumbers.cpp)
