@@ -36,3 +36,4 @@ Some other miscellaneous projects I've completed could be found in the [other_pr
 * [Fibonacci Sequence](https://github.com/TenaCity23/CPP/blob/main/other_projects/Practice/Fibonacci.cpp)
 * [Basic Sorting: Array of Numbers](https://github.com/TenaCity23/CPP/blob/main/other_projects/Practice/BasicSortingNumbers.cpp)
 * [Basic Palindrome](https://github.com/TenaCity23/CPP/blob/main/other_projects/Practice/basic_palindrome.cpp)
+* [Factors of a Number](https://github.com/TenaCity23/CPP/blob/main/other_projects/Practice/factors.cpp)
