@@ -5,6 +5,7 @@ A portfolio of C++ Projects
 ## Main Projects
 In the [main_projects](https://github.com/TenaCity23/CPP/tree/main/main_projects) folder is a compilation of my best C++ Projects that I have completed. Here are some of my highlighted main projects: 
 
+* [Counting Time](https://github.com/TenaCity23/CPP/tree/main/main_projects/CountingTime)
 * [TicTacToe](https://github.com/TenaCity23/CPP/tree/main/main_projects/TicTacToe)
 * [UFO Hangman](https://github.com/TenaCity23/CPP/tree/main/main_projects/UFO_Hangman)
 
