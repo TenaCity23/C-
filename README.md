@@ -13,6 +13,7 @@ In the [main_projects](https://github.com/TenaCity23/CPP/tree/main/main_projects
 ## Object Oriented Programming
 In the [OOP_projects](https://github.com/TenaCity23/CPP/tree/main/OOP_projects) folder are projects that I have done using the four principles of Object Oriented Programming, which include abstraction, encapsulation, inheritance, and polymorphism. These concepts are important in my journey of learning how to program. Here are some of my highligthed OOP projects: 
 
+* [Car Comparison](https://github.com/TenaCity23/CPP/tree/main/OOP_projects/CarComparison)
 * [D.P. App](https://github.com/TenaCity23/CPP/tree/main/OOP_projects/Dating_Profile_App)
 
 
