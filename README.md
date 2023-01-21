@@ -40,4 +40,4 @@ Some other miscellaneous projects I've completed could be found in the [other_pr
 * [Basic Palindrome](https://github.com/TenaCity23/CPP/blob/main/other_projects/Practice/basic_palindrome.cpp)
 * [Factors of a Number](https://github.com/TenaCity23/CPP/blob/main/other_projects/Practice/factors.cpp)
 * [Prime Numbers](https://github.com/TenaCity23/CPP/blob/main/other_projects/Practice/primeNumbers.cpp)
-* [Pointer Array](https://github.com/TenaCity23/CPP/blob/main/A%26DS_projects/pointerArray.cpp)
+* [Pointer Array](https://github.com/TenaCity23/CPP/blob/main/other_projects/Practice/pointerArray.cpp)
