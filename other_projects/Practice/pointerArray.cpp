@@ -1,7 +1,7 @@
 //============================================================================
-// Name        : countingtime.cpp
+// Name        : pointerArray.cpp
 // Author      : TenaCity23
-// Description : Counting Time
+// Description : Editing an array using functions and pointers
 //============================================================================
 
 #include <iostream>
