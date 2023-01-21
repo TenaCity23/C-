@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : pointerArray.cpp
 // Author      : TenaCity23
-// Description : Editing an array using functions and pointers
+// Description : Finding the sum of an array using functions and pointers
 //============================================================================
 
 #include <iostream>
