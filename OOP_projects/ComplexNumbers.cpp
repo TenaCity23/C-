@@ -2,7 +2,7 @@
 //============================================================================
 // Name        : ComplexNumbers.cpp
 // Author      : TenaCity23
-// Description : Using a class to do calculations on complex numbers
+// Description : Calculations on complex numbers using a Class function
 //============================================================================
 
 #include <iostream> 
