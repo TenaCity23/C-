@@ -8,10 +8,7 @@
 #include "car.hpp"
 using namespace std; 
 
-int main () { 
-
-    int x = 5; 
-    int y = 7; 
+int main () {
 
     Car myCar {"Toyota", 2000, 5000};
     Car yourCar {"Honda", 2018, 10000};
