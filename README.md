@@ -8,7 +8,7 @@ In the [main_projects](https://github.com/TenaCity23/CPP/tree/main/main_projects
 * [Counting Time](https://github.com/TenaCity23/CPP/tree/main/main_projects/CountingTime)
 * [TicTacToe](https://github.com/TenaCity23/CPP/tree/main/main_projects/TicTacToe)
 * [UFO Hangman](https://github.com/TenaCity23/CPP/tree/main/main_projects/UFO_Hangman)
-* [Encryption](https://github.com/TenaCity23/CPP/blob/main/main_projects/encryption.cpp)
+* [Caesar Cipher Encryption](https://github.com/TenaCity23/CPP/blob/main/main_projects/encryption.cpp)
 
 
 ## Object Oriented Programming
